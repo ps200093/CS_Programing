@@ -1,0 +1,6 @@
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 12 03 실습\CS 12 03 실습\bin\Debug\CS 12 03 실습.exe.config
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 12 03 실습\CS 12 03 실습\bin\Debug\CS 12 03 실습.exe
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 12 03 실습\CS 12 03 실습\bin\Debug\CS 12 03 실습.pdb
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 12 03 실습\CS 12 03 실습\obj\Debug\CS 12 03 실습.csprojResolveAssemblyReference.cache
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 12 03 실습\CS 12 03 실습\obj\Debug\CS 12 03 실습.exe
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 12 03 실습\CS 12 03 실습\obj\Debug\CS 12 03 실습.pdb

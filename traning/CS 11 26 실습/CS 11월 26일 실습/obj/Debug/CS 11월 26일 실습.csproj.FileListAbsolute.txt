@@ -1,0 +1,9 @@
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 11월 26일 실습\CS 11월 26일 실습\bin\Debug\CS 11월 26일 실습.exe.config
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 11월 26일 실습\CS 11월 26일 실습\bin\Debug\CS 11월 26일 실습.exe
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 11월 26일 실습\CS 11월 26일 실습\bin\Debug\CS 11월 26일 실습.pdb
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 11월 26일 실습\CS 11월 26일 실습\obj\Debug\CS 11월 26일 실습.csprojResolveAssemblyReference.cache
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 11월 26일 실습\CS 11월 26일 실습\obj\Debug\CS_11월_26일_실습.Form1.resources
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 11월 26일 실습\CS 11월 26일 실습\obj\Debug\CS_11월_26일_실습.Properties.Resources.resources
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 11월 26일 실습\CS 11월 26일 실습\obj\Debug\CS 11월 26일 실습.csproj.GenerateResource.Cache
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 11월 26일 실습\CS 11월 26일 실습\obj\Debug\CS 11월 26일 실습.exe
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말\CS 11월 26일 실습\CS 11월 26일 실습\obj\Debug\CS 11월 26일 실습.pdb
