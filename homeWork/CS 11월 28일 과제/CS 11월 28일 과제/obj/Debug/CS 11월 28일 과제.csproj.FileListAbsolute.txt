@@ -1,0 +1,7 @@
+C:\Users\SH\source\repos\CS 11월 28일 과제\CS 11월 28일 과제\obj\Debug\CS 11월 28일 과제.csprojAssemblyReference.cache
+C:\Users\SH\source\repos\CS 11월 28일 과제\CS 11월 28일 과제\obj\Debug\CS 11월 28일 과제.csproj.CoreCompileInputs.cache
+C:\Users\SH\source\repos\CS 11월 28일 과제\CS 11월 28일 과제\bin\Debug\CS 11월 28일 과제.exe.config
+C:\Users\SH\source\repos\CS 11월 28일 과제\CS 11월 28일 과제\bin\Debug\CS 11월 28일 과제.exe
+C:\Users\SH\source\repos\CS 11월 28일 과제\CS 11월 28일 과제\bin\Debug\CS 11월 28일 과제.pdb
+C:\Users\SH\source\repos\CS 11월 28일 과제\CS 11월 28일 과제\obj\Debug\CS 11월 28일 과제.exe
+C:\Users\SH\source\repos\CS 11월 28일 과제\CS 11월 28일 과제\obj\Debug\CS 11월 28일 과제.pdb

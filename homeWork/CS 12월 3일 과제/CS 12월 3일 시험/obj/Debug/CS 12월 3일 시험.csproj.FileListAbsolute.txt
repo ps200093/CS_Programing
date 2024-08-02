@@ -1,0 +1,14 @@
+C:\Users\SH\source\repos\CS 12월 3일 시험\CS 12월 3일 시험\obj\Debug\CS 12월 3일 시험.csprojAssemblyReference.cache
+C:\Users\SH\source\repos\CS 12월 3일 시험\CS 12월 3일 시험\obj\Debug\CS 12월 3일 시험.csproj.CoreCompileInputs.cache
+C:\Users\SH\source\repos\CS 12월 3일 시험\CS 12월 3일 시험\bin\Debug\CS 12월 3일 시험.exe.config
+C:\Users\SH\source\repos\CS 12월 3일 시험\CS 12월 3일 시험\bin\Debug\CS 12월 3일 시험.exe
+C:\Users\SH\source\repos\CS 12월 3일 시험\CS 12월 3일 시험\bin\Debug\CS 12월 3일 시험.pdb
+C:\Users\SH\source\repos\CS 12월 3일 시험\CS 12월 3일 시험\obj\Debug\CS 12월 3일 시험.exe
+C:\Users\SH\source\repos\CS 12월 3일 시험\CS 12월 3일 시험\obj\Debug\CS 12월 3일 시험.pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 12월 3일 과제\CS 12월 3일 시험\bin\Debug\CS 12월 3일 시험.exe.config
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 12월 3일 과제\CS 12월 3일 시험\bin\Debug\CS 12월 3일 시험.exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 12월 3일 과제\CS 12월 3일 시험\bin\Debug\CS 12월 3일 시험.pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 12월 3일 과제\CS 12월 3일 시험\obj\Debug\CS 12월 3일 시험.csprojAssemblyReference.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 12월 3일 과제\CS 12월 3일 시험\obj\Debug\CS 12월 3일 시험.csproj.CoreCompileInputs.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 12월 3일 과제\CS 12월 3일 시험\obj\Debug\CS 12월 3일 시험.exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 12월 3일 과제\CS 12월 3일 시험\obj\Debug\CS 12월 3일 시험.pdb
