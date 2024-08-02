@@ -1,0 +1,21 @@
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말 01\기말 01\bin\Debug\기말 01.exe.config
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말 01\기말 01\bin\Debug\기말 01.exe
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말 01\기말 01\bin\Debug\기말 01.pdb
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말 01\기말 01\obj\Debug\기말 01.csprojResolveAssemblyReference.cache
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말 01\기말 01\obj\Debug\기말_01.DialogForm.resources
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말 01\기말 01\obj\Debug\기말_01.Form1.resources
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말 01\기말 01\obj\Debug\기말_01.Properties.Resources.resources
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말 01\기말 01\obj\Debug\기말 01.csproj.GenerateResource.Cache
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말 01\기말 01\obj\Debug\기말 01.exe
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\기말 01\기말 01\obj\Debug\기말 01.pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 17일\기말 01\bin\Debug\기말 01.exe.config
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 17일\기말 01\bin\Debug\기말 01.exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 17일\기말 01\bin\Debug\기말 01.pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 17일\기말 01\obj\Debug\기말 01.csprojAssemblyReference.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 17일\기말 01\obj\Debug\기말_01.DialogForm.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 17일\기말 01\obj\Debug\기말_01.Form1.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 17일\기말 01\obj\Debug\기말_01.Properties.Resources.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 17일\기말 01\obj\Debug\기말 01.csproj.GenerateResource.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 17일\기말 01\obj\Debug\기말 01.csproj.CoreCompileInputs.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 17일\기말 01\obj\Debug\기말 01.exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 17일\기말 01\obj\Debug\기말 01.pdb

@@ -1,0 +1,14 @@
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\bin\Debug\CS 10 24 실습 콘솔.exe.config
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\bin\Debug\CS 10 24 실습 콘솔.exe
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\bin\Debug\CS 10 24 실습 콘솔.pdb
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\obj\Debug\CS 10 24 실습 콘솔.csprojResolveAssemblyReference.cache
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\obj\Debug\CS 10 24 실습 콘솔.exe
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\obj\Debug\CS 10 24 실습 콘솔.pdb
+C:\Users\ps200\Desktop\C#\기말\실습\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\bin\Debug\CS 10 24 실습 콘솔.exe.config
+C:\Users\ps200\Desktop\C#\기말\실습\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\bin\Debug\CS 10 24 실습 콘솔.exe
+C:\Users\ps200\Desktop\C#\기말\실습\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\bin\Debug\CS 10 24 실습 콘솔.pdb
+C:\Users\ps200\Desktop\C#\기말\실습\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\obj\Debug\CS 10 24 실습 콘솔.csproj.AssemblyReference.cache
+C:\Users\ps200\Desktop\C#\기말\실습\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\obj\Debug\CS 10 24 실습 콘솔.csproj.SuggestedBindingRedirects.cache
+C:\Users\ps200\Desktop\C#\기말\실습\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\obj\Debug\CS 10 24 실습 콘솔.csproj.CoreCompileInputs.cache
+C:\Users\ps200\Desktop\C#\기말\실습\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\obj\Debug\CS 10 24 실습 콘솔.exe
+C:\Users\ps200\Desktop\C#\기말\실습\CS 10 24 실습 콘솔\CS 10 24 실습 콘솔\obj\Debug\CS 10 24 실습 콘솔.pdb
