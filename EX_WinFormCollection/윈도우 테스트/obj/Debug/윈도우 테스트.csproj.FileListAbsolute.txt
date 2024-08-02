@@ -1,0 +1,97 @@
+C:\Users\SH\source\repos\윈도우 테스트\윈도우 테스트\bin\Debug\윈도우 테스트.exe.config
+C:\Users\SH\source\repos\윈도우 테스트\윈도우 테스트\bin\Debug\윈도우 테스트.exe
+C:\Users\SH\source\repos\윈도우 테스트\윈도우 테스트\bin\Debug\윈도우 테스트.pdb
+C:\Users\SH\source\repos\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.csprojAssemblyReference.cache
+C:\Users\SH\source\repos\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우_테스트.Form1.resources
+C:\Users\SH\source\repos\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우_테스트.Properties.Resources.resources
+C:\Users\SH\source\repos\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.GenerateResource.cache
+C:\Users\SH\source\repos\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.CoreCompileInputs.cache
+C:\Users\SH\source\repos\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.exe
+C:\Users\SH\source\repos\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.pdb
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\bin\Debug\윈도우 테스트.exe.config
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\bin\Debug\윈도우 테스트.exe
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\bin\Debug\윈도우 테스트.pdb
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.csprojAssemblyReference.cache
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우_테스트.Form1.resources
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우_테스트.Properties.Resources.resources
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.GenerateResource.cache
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.CoreCompileInputs.cache
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.exe
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.pdb
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우_테스트.DialogForm.resources
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우_테스트.WebBrowser.resources
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\bin\Debug\Interop.WMPLib.dll
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\obj\Debug\Interop.WMPLib.dll
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SH\source\repos\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.ResolveComReference.cache
+D:\C#\윈도우 테스트\윈도우 테스트\bin\Debug\윈도우 테스트.exe.config
+D:\C#\윈도우 테스트\윈도우 테스트\bin\Debug\윈도우 테스트.exe
+D:\C#\윈도우 테스트\윈도우 테스트\bin\Debug\윈도우 테스트.pdb
+D:\C#\윈도우 테스트\윈도우 테스트\bin\Debug\Interop.WMPLib.dll
+D:\C#\윈도우 테스트\윈도우 테스트\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.csprojAssemblyReference.cache
+D:\C#\윈도우 테스트\윈도우 테스트\obj\Debug\Interop.WMPLib.dll
+D:\C#\윈도우 테스트\윈도우 테스트\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.ResolveComReference.cache
+D:\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우_테스트.DialogForm.resources
+D:\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우_테스트.Form1.resources
+D:\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우_테스트.Properties.Resources.resources
+D:\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우_테스트.WebBrowser.resources
+D:\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.GenerateResource.cache
+D:\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.CoreCompileInputs.cache
+D:\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.exe
+D:\C#\윈도우 테스트\윈도우 테스트\obj\Debug\윈도우 테스트.pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\bin\Debug\윈도우 테스트.exe.config
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\bin\Debug\윈도우 테스트.exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\bin\Debug\윈도우 테스트.pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\bin\Debug\Interop.WMPLib.dll
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우 테스트.csprojAssemblyReference.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\Interop.WMPLib.dll
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.ResolveComReference.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우_테스트.DialogForm.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우_테스트.Form1.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우_테스트.Properties.Resources.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우_테스트.WebBrowser.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.GenerateResource.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.CoreCompileInputs.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우 테스트.exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우 테스트.pdb
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\bin\Debug\윈도우 테스트.exe.config
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\bin\Debug\윈도우 테스트.exe
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\bin\Debug\윈도우 테스트.pdb
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\bin\Debug\Interop.WMPLib.dll
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.AssemblyReference.cache
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.SuggestedBindingRedirects.cache
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\Interop.WMPLib.dll
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.ResolveComReference.cache
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우_테스트.DialogForm.resources
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우_테스트.Form1.resources
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우_테스트.Properties.Resources.resources
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우_테스트.WebBrowser.resources
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.GenerateResource.cache
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.CoreCompileInputs.cache
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우 테스트.exe
+C:\Users\ps200\Desktop\C#\윈도우폼 모음\윈도우 테스트\obj\Debug\윈도우 테스트.pdb
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\bin\Debug\윈도우 테스트.exe.config
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\bin\Debug\윈도우 테스트.exe
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\bin\Debug\윈도우 테스트.pdb
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\bin\Debug\Interop.WMPLib.dll
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.AssemblyReference.cache
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.SuggestedBindingRedirects.cache
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\obj\Debug\Interop.WMPLib.dll
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.ResolveComReference.cache
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\obj\Debug\윈도우_테스트.DialogForm.resources
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\obj\Debug\윈도우_테스트.Form1.resources
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\obj\Debug\윈도우_테스트.Properties.Resources.resources
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\obj\Debug\윈도우_테스트.WebBrowser.resources
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.GenerateResource.cache
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\obj\Debug\윈도우 테스트.csproj.CoreCompileInputs.cache
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\obj\Debug\윈도우 테스트.exe
+C:\Users\ps200\Desktop\C#\EX_WinFormCollection\윈도우 테스트\obj\Debug\윈도우 테스트.pdb
