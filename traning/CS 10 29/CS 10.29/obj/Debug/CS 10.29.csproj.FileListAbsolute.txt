@@ -1,0 +1,6 @@
+C:\Users\SH\Desktop\수업관련\4학기\C#\기말\실습\CS 10 29\CS 10.29\bin\Debug\CS 10.29.exe.config
+C:\Users\SH\Desktop\수업관련\4학기\C#\기말\실습\CS 10 29\CS 10.29\bin\Debug\CS 10.29.exe
+C:\Users\SH\Desktop\수업관련\4학기\C#\기말\실습\CS 10 29\CS 10.29\bin\Debug\CS 10.29.pdb
+C:\Users\SH\Desktop\수업관련\4학기\C#\기말\실습\CS 10 29\CS 10.29\obj\Debug\CS 10.29.csprojAssemblyReference.cache
+C:\Users\SH\Desktop\수업관련\4학기\C#\기말\실습\CS 10 29\CS 10.29\obj\Debug\CS 10.29.exe
+C:\Users\SH\Desktop\수업관련\4학기\C#\기말\실습\CS 10 29\CS 10.29\obj\Debug\CS 10.29.pdb

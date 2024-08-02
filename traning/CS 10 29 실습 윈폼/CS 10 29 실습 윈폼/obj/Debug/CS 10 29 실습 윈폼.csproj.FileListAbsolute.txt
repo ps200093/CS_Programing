@@ -1,0 +1,19 @@
+d:\저장 폴더\visual studio 2017\Projects\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\bin\Debug\CS 10 29 실습 윈폼.exe.config
+d:\저장 폴더\visual studio 2017\Projects\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\bin\Debug\CS 10 29 실습 윈폼.exe
+d:\저장 폴더\visual studio 2017\Projects\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\bin\Debug\CS 10 29 실습 윈폼.pdb
+d:\저장 폴더\visual studio 2017\Projects\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\obj\Debug\CS 10 29 실습 윈폼.csprojResolveAssemblyReference.cache
+d:\저장 폴더\visual studio 2017\Projects\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\obj\Debug\CS_10_29_실습_윈폼.Form1.resources
+d:\저장 폴더\visual studio 2017\Projects\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\obj\Debug\CS_10_29_실습_윈폼.Properties.Resources.resources
+d:\저장 폴더\visual studio 2017\Projects\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\obj\Debug\CS 10 29 실습 윈폼.csproj.GenerateResource.Cache
+d:\저장 폴더\visual studio 2017\Projects\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\obj\Debug\CS 10 29 실습 윈폼.exe
+d:\저장 폴더\visual studio 2017\Projects\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\obj\Debug\CS 10 29 실습 윈폼.pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\bin\Debug\CS 10 29 실습 윈폼.exe.config
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\bin\Debug\CS 10 29 실습 윈폼.exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\bin\Debug\CS 10 29 실습 윈폼.pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\obj\Debug\CS 10 29 실습 윈폼.csprojAssemblyReference.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\obj\Debug\CS_10_29_실습_윈폼.Form1.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\obj\Debug\CS_10_29_실습_윈폼.Properties.Resources.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\obj\Debug\CS 10 29 실습 윈폼.csproj.GenerateResource.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\obj\Debug\CS 10 29 실습 윈폼.csproj.CoreCompileInputs.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\obj\Debug\CS 10 29 실습 윈폼.exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 10 29 실습 윈폼\CS 10 29 실습 윈폼\obj\Debug\CS 10 29 실습 윈폼.pdb
