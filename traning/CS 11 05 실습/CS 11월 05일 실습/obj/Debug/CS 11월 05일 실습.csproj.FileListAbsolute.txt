@@ -1,0 +1,13 @@
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\CS 11월 05일 실습\CS 11월 05일 실습\obj\Debug\CS 11월 05일 실습.csprojResolveAssemblyReference.cache
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\CS 11월 05일 실습\CS 11월 05일 실습\bin\Debug\CS 11월 05일 실습.exe.config
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\CS 11월 05일 실습\CS 11월 05일 실습\bin\Debug\CS 11월 05일 실습.exe
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\CS 11월 05일 실습\CS 11월 05일 실습\bin\Debug\CS 11월 05일 실습.pdb
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\CS 11월 05일 실습\CS 11월 05일 실습\obj\Debug\CS 11월 05일 실습.exe
+D:\저장 폴더\Visual Studio 2017\Projects\박세현\CS 11월 05일 실습\CS 11월 05일 실습\obj\Debug\CS 11월 05일 실습.pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 11 05 실습\CS 11월 05일 실습\bin\Debug\CS 11월 05일 실습.exe.config
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 11 05 실습\CS 11월 05일 실습\bin\Debug\CS 11월 05일 실습.exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 11 05 실습\CS 11월 05일 실습\bin\Debug\CS 11월 05일 실습.pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 11 05 실습\CS 11월 05일 실습\obj\Debug\CS 11월 05일 실습.csprojAssemblyReference.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 11 05 실습\CS 11월 05일 실습\obj\Debug\CS 11월 05일 실습.csproj.CoreCompileInputs.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 11 05 실습\CS 11월 05일 실습\obj\Debug\CS 11월 05일 실습.exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\실습\CS 11 05 실습\CS 11월 05일 실습\obj\Debug\CS 11월 05일 실습.pdb
