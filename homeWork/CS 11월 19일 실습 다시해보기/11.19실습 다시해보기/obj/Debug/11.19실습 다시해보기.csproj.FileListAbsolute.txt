@@ -1,0 +1,21 @@
+C:\Users\SH\source\repos\11.19실습 다시해보기\11.19실습 다시해보기\bin\Debug\11.19실습 다시해보기.exe.config
+C:\Users\SH\source\repos\11.19실습 다시해보기\11.19실습 다시해보기\bin\Debug\11.19실습 다시해보기.exe
+C:\Users\SH\source\repos\11.19실습 다시해보기\11.19실습 다시해보기\bin\Debug\11.19실습 다시해보기.pdb
+C:\Users\SH\source\repos\11.19실습 다시해보기\11.19실습 다시해보기\obj\Debug\11.19실습 다시해보기.csprojAssemblyReference.cache
+C:\Users\SH\source\repos\11.19실습 다시해보기\11.19실습 다시해보기\obj\Debug\_11._19실습_다시해보기.Form1.resources
+C:\Users\SH\source\repos\11.19실습 다시해보기\11.19실습 다시해보기\obj\Debug\_11._19실습_다시해보기.Properties.Resources.resources
+C:\Users\SH\source\repos\11.19실습 다시해보기\11.19실습 다시해보기\obj\Debug\11.19실습 다시해보기.csproj.GenerateResource.cache
+C:\Users\SH\source\repos\11.19실습 다시해보기\11.19실습 다시해보기\obj\Debug\11.19실습 다시해보기.csproj.CoreCompileInputs.cache
+C:\Users\SH\source\repos\11.19실습 다시해보기\11.19실습 다시해보기\obj\Debug\11.19실습 다시해보기.exe
+C:\Users\SH\source\repos\11.19실습 다시해보기\11.19실습 다시해보기\obj\Debug\11.19실습 다시해보기.pdb
+C:\Users\ps200\Desktop\C#\기말\과제\CS 11월 19일 실습 다시해보기\11.19실습 다시해보기\bin\Debug\11.19실습 다시해보기.exe.config
+C:\Users\ps200\Desktop\C#\기말\과제\CS 11월 19일 실습 다시해보기\11.19실습 다시해보기\bin\Debug\11.19실습 다시해보기.exe
+C:\Users\ps200\Desktop\C#\기말\과제\CS 11월 19일 실습 다시해보기\11.19실습 다시해보기\bin\Debug\11.19실습 다시해보기.pdb
+C:\Users\ps200\Desktop\C#\기말\과제\CS 11월 19일 실습 다시해보기\11.19실습 다시해보기\obj\Debug\11.19실습 다시해보기.csproj.AssemblyReference.cache
+C:\Users\ps200\Desktop\C#\기말\과제\CS 11월 19일 실습 다시해보기\11.19실습 다시해보기\obj\Debug\11.19실습 다시해보기.csproj.SuggestedBindingRedirects.cache
+C:\Users\ps200\Desktop\C#\기말\과제\CS 11월 19일 실습 다시해보기\11.19실습 다시해보기\obj\Debug\_11._19실습_다시해보기.Form1.resources
+C:\Users\ps200\Desktop\C#\기말\과제\CS 11월 19일 실습 다시해보기\11.19실습 다시해보기\obj\Debug\_11._19실습_다시해보기.Properties.Resources.resources
+C:\Users\ps200\Desktop\C#\기말\과제\CS 11월 19일 실습 다시해보기\11.19실습 다시해보기\obj\Debug\11.19실습 다시해보기.csproj.GenerateResource.cache
+C:\Users\ps200\Desktop\C#\기말\과제\CS 11월 19일 실습 다시해보기\11.19실습 다시해보기\obj\Debug\11.19실습 다시해보기.csproj.CoreCompileInputs.cache
+C:\Users\ps200\Desktop\C#\기말\과제\CS 11월 19일 실습 다시해보기\11.19실습 다시해보기\obj\Debug\11.19실습 다시해보기.exe
+C:\Users\ps200\Desktop\C#\기말\과제\CS 11월 19일 실습 다시해보기\11.19실습 다시해보기\obj\Debug\11.19실습 다시해보기.pdb
