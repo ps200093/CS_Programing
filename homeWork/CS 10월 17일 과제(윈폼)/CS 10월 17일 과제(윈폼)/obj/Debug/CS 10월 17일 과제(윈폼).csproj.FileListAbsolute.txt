@@ -1,0 +1,34 @@
+C:\Users\SH\source\repos\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\bin\Debug\CS 10월 17일 과제(윈폼).exe.config
+C:\Users\SH\source\repos\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\bin\Debug\CS 10월 17일 과제(윈폼).exe
+C:\Users\SH\source\repos\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\bin\Debug\CS 10월 17일 과제(윈폼).pdb
+C:\Users\SH\source\repos\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).csprojAssemblyReference.cache
+C:\Users\SH\source\repos\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS_10월_17일_과제_윈폼_.Form1.resources
+C:\Users\SH\source\repos\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS_10월_17일_과제_윈폼_.Form2.resources
+C:\Users\SH\source\repos\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS_10월_17일_과제_윈폼_.Properties.Resources.resources
+C:\Users\SH\source\repos\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).csproj.GenerateResource.cache
+C:\Users\SH\source\repos\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).csproj.CoreCompileInputs.cache
+C:\Users\SH\source\repos\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).exe
+C:\Users\SH\source\repos\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\bin\Debug\CS 10월 17일 과제(윈폼).exe.config
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\bin\Debug\CS 10월 17일 과제(윈폼).exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\bin\Debug\CS 10월 17일 과제(윈폼).pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).csprojAssemblyReference.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS_10월_17일_과제_윈폼_.Form1.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS_10월_17일_과제_윈폼_.Form2.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS_10월_17일_과제_윈폼_.Properties.Resources.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).csproj.GenerateResource.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).csproj.CoreCompileInputs.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).pdb
+C:\Users\ps200\Desktop\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\bin\Debug\CS 10월 17일 과제(윈폼).exe.config
+C:\Users\ps200\Desktop\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\bin\Debug\CS 10월 17일 과제(윈폼).exe
+C:\Users\ps200\Desktop\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\bin\Debug\CS 10월 17일 과제(윈폼).pdb
+C:\Users\ps200\Desktop\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).csproj.AssemblyReference.cache
+C:\Users\ps200\Desktop\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).csproj.SuggestedBindingRedirects.cache
+C:\Users\ps200\Desktop\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS_10월_17일_과제_윈폼_.Form1.resources
+C:\Users\ps200\Desktop\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS_10월_17일_과제_윈폼_.Form2.resources
+C:\Users\ps200\Desktop\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS_10월_17일_과제_윈폼_.Properties.Resources.resources
+C:\Users\ps200\Desktop\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).csproj.GenerateResource.cache
+C:\Users\ps200\Desktop\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).csproj.CoreCompileInputs.cache
+C:\Users\ps200\Desktop\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).exe
+C:\Users\ps200\Desktop\C#\기말\과제\CS 10월 17일 과제(윈폼)\CS 10월 17일 과제(윈폼)\obj\Debug\CS 10월 17일 과제(윈폼).pdb

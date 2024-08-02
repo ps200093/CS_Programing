@@ -1,0 +1,20 @@
+C:\Users\SH\source\repos\CS 10 22 화 실습\CS 10 22 화 실습\bin\Debug\CS 10 22 화 실습.exe.config
+C:\Users\SH\source\repos\CS 10 22 화 실습\CS 10 22 화 실습\bin\Debug\CS 10 22 화 실습.exe
+C:\Users\SH\source\repos\CS 10 22 화 실습\CS 10 22 화 실습\bin\Debug\CS 10 22 화 실습.pdb
+C:\Users\SH\source\repos\CS 10 22 화 실습\CS 10 22 화 실습\obj\Debug\CS 10 22 화 실습.csprojAssemblyReference.cache
+C:\Users\SH\source\repos\CS 10 22 화 실습\CS 10 22 화 실습\obj\Debug\CS_10_22_화_실습.Form1.resources
+C:\Users\SH\source\repos\CS 10 22 화 실습\CS 10 22 화 실습\obj\Debug\CS_10_22_화_실습.Properties.Resources.resources
+C:\Users\SH\source\repos\CS 10 22 화 실습\CS 10 22 화 실습\obj\Debug\CS 10 22 화 실습.csproj.GenerateResource.cache
+C:\Users\SH\source\repos\CS 10 22 화 실습\CS 10 22 화 실습\obj\Debug\CS 10 22 화 실습.csproj.CoreCompileInputs.cache
+C:\Users\SH\source\repos\CS 10 22 화 실습\CS 10 22 화 실습\obj\Debug\CS 10 22 화 실습.exe
+C:\Users\SH\source\repos\CS 10 22 화 실습\CS 10 22 화 실습\obj\Debug\CS 10 22 화 실습.pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 22일 화 실습\CS 10 22 화 실습\bin\Debug\CS 10 22 화 실습.exe.config
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 22일 화 실습\CS 10 22 화 실습\bin\Debug\CS 10 22 화 실습.exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 22일 화 실습\CS 10 22 화 실습\bin\Debug\CS 10 22 화 실습.pdb
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 22일 화 실습\CS 10 22 화 실습\obj\Debug\CS 10 22 화 실습.csprojAssemblyReference.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 22일 화 실습\CS 10 22 화 실습\obj\Debug\CS_10_22_화_실습.Form1.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 22일 화 실습\CS 10 22 화 실습\obj\Debug\CS_10_22_화_실습.Properties.Resources.resources
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 22일 화 실습\CS 10 22 화 실습\obj\Debug\CS 10 22 화 실습.csproj.GenerateResource.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 22일 화 실습\CS 10 22 화 실습\obj\Debug\CS 10 22 화 실습.csproj.CoreCompileInputs.cache
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 22일 화 실습\CS 10 22 화 실습\obj\Debug\CS 10 22 화 실습.exe
+C:\Users\ps200\OneDrive\Desktop\C#\C#\기말\과제\CS 10월 22일 화 실습\CS 10 22 화 실습\obj\Debug\CS 10 22 화 실습.pdb
